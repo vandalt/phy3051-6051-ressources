@@ -2,7 +2,7 @@
 
 Les liens sont divisés par sujet. Ils peuvent inclure des _packages_ Python, des
 livres, des articles et toute autre ressource utile pour l'utilisation ou
-l'approfondissement des concepts couverts dans le court.
+l'approfondissement des concepts couverts dans le cours.
 
 Pour ajouter une ressource, suivez les instructions [ici](AJOUTS.md).
 
