@@ -9,7 +9,7 @@ Pour ajouter une ressource, suivez les instructions [ici](AJOUTS.md).
 ## Concepts d'analyse bayésienne
 
 - [scikit-learn](https://scikit-learn.org/stable/) - _Package_ Python,
-  implémentation de plusieurs fonctionalités utiles en opur l'analyse bayésienne
+  implémentation de plusieurs fonctionnalités utiles en pour l'analyse bayésienne
   et le _machine learning_
 - [_Frequentism and Bayesianism: What's the Big Deal_](https://www.youtube.com/watch?v=KhAUfqhLakw) - Présentation par Jake VanderPlas sur les différences entre les méthodes fréquentiste et bayésienne
 
