@@ -83,6 +83,7 @@ de la physique. La plupart utilisent d'autres ressources mentionnées ci-dessus.
 - [RadVel](https://radvel.readthedocs.io/en/latest/) - _Package_ Python pour modéliser les séries de vitesse radiale pour la détection d'exoplanète. Inclue des modèles et _priors_ pré-définis, des GPs et un MCMC.
 - [orbitize!](https://orbitize.readthedocs.io/en/latest/) - _Package_ Python pour modéliser l'astrométrie relative (imagerie directe) d'exoplanètes. Interface similaire à RadVel.
 - [batman](https://lweb.cfa.harvard.edu/~lkreidberg/batman/) - _Package_ Python pour modéliser les transits d'exoplanètes.
+- [Astropy](https://www.astropy.org/) - Plein de fonctions et _packages_ utiles pour l'astronomie avec Python
 
 ### Physique des particules
 
@@ -91,3 +92,25 @@ N'hésitez pas à inclure des ressources liées au cours et à ce sujet!
 ### Physique des plamsa
 
 N'hésitez pas à inclure des ressources liées au cours et à ce sujet!
+
+## Outils de développement logiciel
+### Git
+- [Git](https://git-scm.com/) (Voir aussi le [Guide Git de GitHub](https://github.com/git-guides/)) - Pour versionner votre code localement
+- [Github](https://github.com/) - Pour sauvegarder votre code en ligne et y accéder sur différents ordinateurs
+- [GitKraken](https://www.gitkraken.com/) - Interface graphique pour Git
+- [Github Desktop](https://desktop.github.com/) - Interface Graphique pour Git (Windows et MacOS seulement)
+- [Template gitignore pour Python](https://github.com/github/gitignore/blob/main/Python.gitignore)
+<!-- TODO: Lien tutoriel début d'année -->
+### Environnement Python
+- [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/) - Installe le minimum requis pour utiliser conda. Permet d'avoir plusieurs versions de Python et de créer des environnements virtuels.
+- [Anaconda](https://www.anaconda.com/download/) - Distribution Conda qui inclut un environnement complet (très volumineux)
+- [venv](https://docs.python.org/3/library/venv.html) - Pour créer des environnements virutels avec Python sans Conda
+- [virtualenv](https://virtualenv.pypa.io/en/latest/)- Comme `venv`, mais avec un peu plus de fonctionnalités
+- [pyenv](https://github.com/pyenv/pyenv) - Alternative à Conda pour utiliser différentes version de Python (bug un peu plus avec certains _packages_ scientifiques dans  mon expérience)
+### Environnements de développements (IDEs) et éditeurs de texte
+- [Visual Studio Code](https://code.visualstudio.com/) - Éditeur de texte/IDE qui supporte bien Python et les notebooks Jupyter
+- [PyCharm](https://www.jetbrains.com/pycharm/) - IDE pour Python et notebooks Jupyter (version pro gratuite avec votre courriel UdeM)
+- [Spyder](https://www.spyder-ide.org/) - IDE pour la programmation scientifique en Python
+- [JupyterLab](https://jupyter.org/) - Environnement pour les notebooks Jupyter qui inclut aussi un éditeur de texte, terminal, etc.
+### Autre
+- [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/): Environnement Linux dans le terminal Windows
